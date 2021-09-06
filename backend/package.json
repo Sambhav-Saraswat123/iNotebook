@@ -2,10 +2,10 @@
   "name": "inotebook-backend",
   "version": "1.0.0",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon main.js"
   },
   "description": "This is the backend for iNotebook app",
-  "main": "server.js",
+  "main": "main.js",
   "author": "Sambhav",
   "license": "ISC",
   "dependencies": {
